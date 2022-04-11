@@ -18,7 +18,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://laura1809.github.io/Interactive-rating-component/](https://laura1809.github.io/Interactive-rating-component/)
+- Solution URL: [https://laura1809.github.io/Order-summary-component/](https://laura1809.github.io/Order-summary-component/)
 
 
 ### Built with
